@@ -8,8 +8,10 @@ response programs for distributed and remote-first organizations.
 Strong track record of aligning security and IT initiatives with
 business objectives while operating in global environments.
 
-📍 India | 🌍 Open to Remote Roles (US / EU)  
-📧 dollybommera07@gmail.com | 🔗 [LinkedIn] (https://www.linkedin.com/in/darshini-bommera-a3970a91) | 📄 Resume
+📧 dollybommera07@gmail.com |
+🔗 [LinkedIn](https://www.linkedin.com/in/darshini-bommera-a3970a91) |
+📄 [Resume](Darshini_Bommera_Resume.pdf)
+
 
 ---
 

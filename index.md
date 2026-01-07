@@ -1,8 +1,7 @@
 ---
 title: ""
+layout: default
 ---
-
-
 
 
 # Darshini Bommera

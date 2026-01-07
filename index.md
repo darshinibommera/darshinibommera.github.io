@@ -1,29 +1,29 @@
 # Darshini Bommera
-## Senior IT / Security Professional | Remote
+## Senior IT & Information Security Leader | Remote
 
-Experienced IT and Information Security professional with strong background in
-cloud security, SaaS governance, compliance, and incident response.
-Proven ability to work independently in remote, global environments.
+Senior IT and Information Security professional with strong experience
+designing and leading cloud security, SaaS governance, compliance,
+and incident response programs for distributed and remote-first organizations.
+Proven ability to align security and IT initiatives with business goals
+while operating in global environments.
 
-📍 India | 🌍 Open to Remote Roles (US/EU)
-📧 dollybommera07@gmail.com | 🔗 LinkedIn - need to be added | 📄 Resume
+📍 India | 🌍 Open to Remote Roles (US / EU)  
+📧 dollybommera07@gmail.com | 🔗 LinkedIn | 📄 Resume
 
 ---
 
 ## Core Expertise
-- Cloud & SaaS Security
-- Information Security Management
-- Identity & Access Management
-- Incident Response
-- Compliance & Governance
-- Vendor & Risk Management
+- Information Security Management & Governance
+- Cloud Security (AWS / Azure)
+- SaaS & Identity Security (GSuite, Okta, Slack)
+- Incident Response & Security Operations
+- Compliance & Risk Management (GDPR, PCI DSS)
+- Vendor Risk & Third-Party Governance
 
 ---
 
 ## Selected Projects
-- Cloud Security Program (AWS / Azure)
-- Information Security Governance Framework
-- SaaS & Identity Security (GSuite, Okta, Slack)
-- Security Incident Response Leadership
-- Compliance Program (GDPR / PCI DSS)
-- Security Automation & Tooling
+- [Cloud Security Program (AWS / Azure)](projects/cloud-security.md)
+- [SaaS & Identity Security Program (GSuite, Okta, Slack)](projects/saas-identity.md)
+- [Security Incident Response Leadership](projects/incident-response.md)
+- [Compliance & Information Security Governance](projects/compliance-governance.md)
